@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-ai",
+  "description": "AI NPCs and Minecraft-style helpers",
+  "version": "1.0.0",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
+}
